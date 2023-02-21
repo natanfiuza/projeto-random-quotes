@@ -1,0 +1,6 @@
+{
+    "require": {
+        "natanfiuza/random-quotes": "^0.0.1",
+        "nfephp-org/sped-ibge": "^1.0"
+    }
+}
